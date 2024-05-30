@@ -95,17 +95,14 @@
     </div>
 </details>
 
-<!--
-**direnbharwani/direnbharwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Stats</h2>
 
-Here are some ideas to get you started:
+<!-- TODO: Host on Vercel to include private repositories since majority was made to private repos -->
+<div align="center">
+    <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=direnbharwani&theme=radical&hide_border=true&card_width=768" alt="GitHub Streak"/></a></p>
+    <p>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=direnbharwani&layout=donut&theme=radical&hide_border=true&card_width=256" height="192px"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=direnbharwani&show_icons=true&theme=radical&hide_border=true&card_width=512&hide=stars" height="192px"/></a>
+    </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

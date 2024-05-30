@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/banner.png"/>
+    <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/banner.png" style="max-width: 100%; height: auto;"/>
 </p>
 
 <p align="center">
@@ -29,6 +29,31 @@
 </div>
 
 <h2 align="center">Dev Experience</h2>
+
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHEwbnpmYTY3ZXFnaHZnZDg2dTFkM3Fld3o4MG9xcG5ocWVjb25pbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRQBXSCnEFJIuxktnw/giphy.gif" style="max-width: 100%; height: auto;"/>
+      <br>
+      <sub>Math Libraries</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB3c3ljOHI3cDFsaWM0ajJxbGw0OG8yd295a2dhbnd2bmpzb2d3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/peB7vUKdLX3oI/giphy.gif" style="max-width: 100%; height: auto;"/>
+      <br>
+      <sub>Game Physics</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBlbzhqOGg3YThncGVkbm93emNuOGd2em5iNWd5bzFrYXhiZ3NhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KeQJaXuGvio5yrBWka/giphy.gif" style="max-width: 100%; height: auto;"/>
+      <br>
+      <sub>Cloud Computing</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczF4NzNza2s3cmtmdjI2NHhqOHBkMW83dzF4N3RlMm51YjVra2xvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/trN9ht5RlE3Dcwavg2/giphy.gif" style="max-width: 100%; height: auto;"/>
+      <br>
+      <sub>Blockchain Development</sub>
+    </td>
+  </tr>
+</table>
 
 
 <!--

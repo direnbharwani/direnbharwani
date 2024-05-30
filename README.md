@@ -10,17 +10,13 @@
 <h2></h2>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/diren-bharwani/"> 
-        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/social/linkedin.svg" width="48px"/> 
-    </a>
+    <a href="https://www.linkedin.com/in/diren-bharwani/"><img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/social/linkedin.svg" width="48px"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="mailto:diren.bharwani@gmail.com"> 
-        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/social/gmail.svg" width="48px"/> 
-    </a>
+    <a href="mailto:diren.bharwani@gmail.com"><img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/social/gmail.svg" width="48px"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discord.com/users/231740170158866432"> 
-        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/social/discord.svg" width="48px"/> 
-    </a>
+    <a href="https://discord.com/users/231740170158866432"><img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/social/discord.svg" width="48px"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://steamcommunity.com/profiles/76561198101643015/"><img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/social/steam.svg" width="48px"/></a>
 </div>
 
 <br>
@@ -33,9 +29,47 @@
 
 <div align="center">
     <h1>Skills</h1>
-    <h3>Backend</h3>
-    <h3>Frontend</h3>
+    <h3>Languages</h3>
+    <div align="center">
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/backend/c++.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/backend/go.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/backend/typescript.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/backend/python.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/backend/kotlin.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/frontend/html5.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/frontend/css3.svg" width="48px"/>
+        &#8287;&#8287;
+    </div>
+    <h3>Frameworks</h3>
+    <div align="center">
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/frontend/svelte.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/frontend/react.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/frontend/nextjs.svg" width="48px"/>
+    </div>
     <h3>Technologies</h3>
+    <div align="center">
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/git-scm.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/nodejs.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/aws.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/terraform.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/docker.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/supabase.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/postgres.svg" width="48px"/>
+    </div>
 </div>
 
 <h1 align="center">Dev Experience</h1>

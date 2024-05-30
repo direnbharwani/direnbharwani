@@ -35,9 +35,7 @@
     <h1>Skills</h1>
     <h3>Backend</h3>
     <h3>Frontend</h3>
-    <h3>Frameworks</h3>
-    <h3>Databases</h3>
-    <h3>Tools</h3>
+    <h3>Technologies</h3>
 </div>
 
 <h1 align="center">Dev Experience</h1>
@@ -62,11 +60,6 @@
         <p align="center">Blockchain</p>
     </div>
 </details>
-
-
-
-
-
 
 <!--
 **direnbharwani/direnbharwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

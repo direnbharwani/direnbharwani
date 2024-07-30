@@ -101,8 +101,8 @@
 <div align="center">
     <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=direnbharwani&theme=radical&hide_border=true&card_width=512" alt="GitHub Streak"/></a></p>
     <p>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=direnbharwani&layout=donut&theme=radical&hide_border=true&card_width=128" height="192px"/></a>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=direnbharwani&show_icons=true&theme=radical&hide_border=true&card_width=256&hide=stars&rank_icon=github" height="192px"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-chi-lac-40.vercel.app/api/top-langs/?username=direnbharwani&layout=donut&theme=radical&hide_border=true&card_width=128" height="192px"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-chi-lac-40.vercel.app/api?username=direnbharwani&show_icons=true&theme=radical&hide_border=true&card_width=256&hide=stars&rank_icon=github" height="192px"/></a>
     </p>
 </div>
 

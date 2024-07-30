@@ -56,7 +56,7 @@
     </div>
     <h3>Technologies</h3>
     <div align="center">
-        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/git-scm.svg" width="48px"/>
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/MySQL.svg" width="48px"/>
         &#8287;&#8287;
         <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/nodejs.svg" width="48px"/>
         &#8287;&#8287;
@@ -69,6 +69,8 @@
         <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/supabase.svg" width="48px"/>
         &#8287;&#8287;
         <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/postgres.svg" width="48px"/>
+        &#8287;&#8287;
+        <img src="https://github.com/direnbharwani/direnbharwani/blob/main/assets/icons/skills/technologies/MongoDB.svg" width="48px"/>
     </div>
 </div>
 

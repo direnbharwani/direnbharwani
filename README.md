@@ -22,8 +22,8 @@
 <br>
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=cocomoose2196&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=cocomoose2196&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=cocomoose2196&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=cocomoose2196&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
   </a>
 </div>
 

@@ -104,7 +104,7 @@
     <p><a href="https://git.io/streak-stats"><img src="https://direnbharwani-github-readme-streak-stats.vercel.app/?user=direnbharwani&theme=radical&hide_border=true&card_width=512" alt="GitHub Streak"/></a></p>
     <p>
         <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://direnbharwani-github-readme-stats.vercel.app/api/top-langs/?username=direnbharwani&layout=donut&theme=radical&hide_border=true&card_width=128&exclude_repo=github-readme-stats,github-readme-streak-stats" height="192px"/></a>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://direnbharwani-github-readme-stats.vercel.app/api?username=direnbharwani&show_icons=true&theme=radical&hide_border=true&card_width=256&hide=stars&rank_icon=github" height="192px"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://direnbharwani-github-readme-stats.vercel.app/api?username=direnbharwani&show_icons=true&theme=radical&hide_border=true&card_width=256&hide=stars&rank_icon=github&include_all_commits=true&custom_title=Diren%27s%20Github%20Stats" height="192px"/></a>
     </p>
 </div>
 
